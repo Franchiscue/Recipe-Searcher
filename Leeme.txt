@@ -1,0 +1,5 @@
+Creación de aplicación que busca recetas en la API de edamam y las muestra en pantalla
+
+Copiamos el contenido de la carpeta "Cascaron proyectos"
+
+Luego echamos la carpeta en VisualCode y escribimos en la consola "npm install"
