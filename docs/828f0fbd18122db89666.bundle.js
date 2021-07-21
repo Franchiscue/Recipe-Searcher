@@ -273,4 +273,4 @@ btnNext.addEventListener("click", () =>{
 })
 /******/ })()
 ;
-//# sourceMappingURL=562452611402a4462365.bundle.js.map
+//# sourceMappingURL=828f0fbd18122db89666.bundle.js.map
